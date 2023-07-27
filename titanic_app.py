@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd 
 import plotly.express as px
 
+st.subheader('Solomon Kibon')
+
 #heading and brief description
 st.title('Titanic Data Analysis')
 st.write("This app analyzes the Titanic dataset and displays various visualizations.")
